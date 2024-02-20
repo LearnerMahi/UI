@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home1"
+        android:id="@+id/h1"
+        android:icon="@drawable/baseline_add"
+        />
+
+    <item
+        android:title="Home2"
+        android:id="@+id/h2"
+        android:icon="@drawable/baseline_star"
+        />
+
+    <item
+        android:title="Home3"
+        android:id="@+id/h3"
+        android:icon="@drawable/baseline_home"
+        />
+
+    <item
+        android:title="Home4"
+        android:id="@+id/h4"
+        android:icon="@drawable/baseline_recent"
+        />
+
+</menu>
